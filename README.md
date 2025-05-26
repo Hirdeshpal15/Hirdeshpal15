@@ -10,7 +10,7 @@ My work spans across impactful government projects (NSDC) and high-pressure tech
 
 ## 🛠️ Tools & Technologies
 - **Languages**: Python, SQL, JavaScript (Basic)
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, NLP
 - **Databases**: MySQL, MongoDB
 - **Testing**: Postman, REST APIs
 - **Others**: Git, Jupyter Notebook, React (Basics), Docker (Basics)
