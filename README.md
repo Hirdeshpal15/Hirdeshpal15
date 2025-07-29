@@ -13,7 +13,7 @@ My work spans across impactful government projects (NSDC) and high-pressure tech
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, NLP
 - **Databases**: MySQL, MongoDB
 - **Testing**: Postman, REST APIs
-- **Others**: Git, Jupyter Notebook, React (Basics), Docker (Basics)
+- **Others**: Git, Jupyter Notebook, React (Basics), Docker (Basics), Tableau
 
 ---
 
