@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hirdesh Pal
 
-🎓 MSc Data Analytics student at BSBI, Germany | 💻 Former IT Executive | 🔍 Data Enthusiast
+🎓 MSc Data Analytics student at BSBI, Germany | 💻 Former Data Scientist | 🔍 Data Enthusiast
 
 I’m a passionate data professional with 4.5+ years of experience in IT operations, data management, and analytics. I specialize in transforming data into actionable insights using tools like **Python, SQL, Pandas, Machine Learning and Postman**.
 
