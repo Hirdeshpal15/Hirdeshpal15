@@ -20,7 +20,7 @@ My work spans across impactful government projects (NSDC) and high-pressure tech
 ## 📌 Highlight Projects
 Here are some of my favorite data projects:
 
-  🔹 [Mira-chatbot-NLP](https://github.com/Hirdeshpal15) – Built a Food deilvery chatbot for placing the orders.
+  🔹 [Mira-chatbot-NLP](https://github.com/Hirdeshpal15/Mira-chabot-NLP) – Built a Food deilvery chatbot for placing the orders.
   
  🔹 [Image Classification using CNN](https://github.com/Hirdeshpal15) – Built a CNN model with TensorFlow for image classification  
  
