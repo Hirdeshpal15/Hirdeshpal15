@@ -22,13 +22,13 @@ Here are some of my favorite data projects:
 
   🔹 [Mira-chatbot-NLP](https://github.com/Hirdeshpal15/Mira-chabot-NLP) – Built a Food deilvery chatbot for placing the orders.
   
- 🔹 [Image Classification using CNN](https://github.com/Hirdeshpal15) – Built a CNN model with TensorFlow for image classification  
+ 🔹 [Image Classification CNN](https://github.com/Hirdeshpal15/Image_Classification_CNN) – Built a CNN model with TensorFlow for image classification  
  
- 🔹 [Social Media User Behavior Analysis](https://github.com/Hirdeshpal15) – Used classification algorithms to predict user behavior  
+ 🔹 [Social Media User Behavior Analysis](https://github.com/Hirdeshpal15/Social_Media_User_Behavior_Analysis-ML-) – Used classification algorithms to predict user behavior  
  
- 🔹 [Data Warehouse with SQL](https://github.com/Hirdeshpal15) – Designed star schema & built queries for ETL and reporting  
+ 🔹 [Data Warehouse with SQL](https://github.com/Hirdeshpal15/Data-Warehouse-SQL-Project) – Designed star schema & built queries for ETL and reporting  
  
- 🔹 [Postman Clone](https://github.com/Hirdeshpal15) – Built a basic API testing UI using HTML, CSS, and JavaScript 
+ 🔹 [Postman Clone](https://github.com/Hirdeshpal15/Postman_clone) – Built a basic API testing UI using HTML, CSS, and JavaScript 
  
 ---
 
