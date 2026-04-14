@@ -19,8 +19,8 @@ I design and build **end-to-end AI systems, LLM-powered applications, and scalab
 **AI/ML:** Machine Learning, NLP, LLMs, RAG, Prompt Engineering  
 **Tools:** Pandas, NumPy, Scikit-learn, PyTorch  
 **Data:** ETL Pipelines, Data Modeling  
-**Visualization:** Power BI, Tableau  
-**Cloud (Learning):** Azure, AWS  
+**Visualization:**, Tableau  
+**Cloud (Learning):** Azure  
 
 ---
 
@@ -29,34 +29,35 @@ I design and build **end-to-end AI systems, LLM-powered applications, and scalab
 ### 🧠 RAG-Based AI Assistant
 LLM-powered system using retrieval + generation for context-aware responses  
 👉 Built with embeddings, semantic search, and prompt engineering  
-🔗 [View Project](https://github.com/Hirdeshpal15/REPO_NAME)
+🔗 [View Project](https://github.com/Hirdeshpal15/GenAI-RAG-framework)
 
 ---
 
 ### ⚙️ End-to-End ML Pipeline
 Production-style pipeline from data ingestion → feature engineering → model → prediction  
 👉 Focus on scalability, reproducibility, and data quality  
-🔗 [View Project](https://github.com/Hirdeshpal15/REPO_NAME)
+🔗 [View Project](https://github.com/Hirdeshpal15/ml-diabetes-prediction)
 
 ---
 
 ### 📊 Analytics Dashboard & KPI System
 Built business dashboards and reporting frameworks for decision-making  
 👉 Includes KPI design, visualization, and insights generation  
-🔗 [View Project](https://github.com/Hirdeshpal15/REPO_NAME)
+🔗 [View Project](https://github.com/Hirdeshpal15/HR-Dashboard-Portfolio)
 
 ---
 
-### 🤖 Agentic AI Workflow
-Multi-step reasoning system simulating AI agents using LLM orchestration  
-👉 Focus on structured reasoning and workflow automation  
-🔗 [View Project](https://github.com/Hirdeshpal15/REPO_NAME)
+### 🤖  Image Classification CNN
+Built a CNN model with TensorFlow for image classification.  
+👉 Focus on structured reasoning and image classification
+🔗 [View Project](https://github.com/Hirdeshpal15/Image_Classification_CNN)
 
 ---
 
 ## 🎯 Current Focus
+- Machine Learning
 - Generative AI & LLM Applications  
-- AI Agents & Multi-step Reasoning  
+- AI Agents 
 - Data Engineering & Scalable Pipelines  
 
 ---
