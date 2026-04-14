@@ -49,7 +49,7 @@ Built business dashboards and reporting frameworks for decision-making
 
 ### 🤖  Image Classification CNN
 Built a CNN model with TensorFlow for image classification.  
-👉 Focus on structured reasoning and image classification
+👉 Focus on structured reasoning and image classification.
 🔗 [View Project](https://github.com/Hirdeshpal15/Image_Classification_CNN)
 
 ---
