@@ -1,39 +1,70 @@
-# 👋 Hi, I'm Hirdesh Pal
+# Hi, I'm Hirdesh 👋  
 
-🎓 MSc Data Analytics student at BSBI, Germany | 💻 Former Data Scientist | 🔍 Data Enthusiast
+🚀 AI Engineer | Data Scientist | Building GenAI & Data Systems  
 
-I’m a passionate data professional with 4.5+ years of experience in IT operations, data management, and analytics. I specialize in transforming data into actionable insights using tools like **Python, SQL, Pandas, Machine Learning and Postman**.
-
-My work spans across impactful government projects (NSDC) and high-pressure tech environments (FarEye), where I’ve led teams, tested APIs, optimized dashboards, and built scalable solutions.
+I design and build **end-to-end AI systems, LLM-powered applications, and scalable data pipelines** that solve real-world problems.
 
 ---
 
-## 🛠️ Tools & Technologies
-- **Languages**: Python, SQL, JavaScript (Basic)
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, NLP
-- **Databases**: MySQL, MongoDB
-- **Testing**: Postman, REST APIs
-- **Others**: Git, Jupyter Notebook, React (Basics), Docker (Basics), Tableau
+## 🔥 What I Do
+- 🧠 Build **LLM-based systems (RAG, AI agents, prompt engineering)**
+- ⚙️ Develop **end-to-end ML pipelines (data → model → deployment)**
+- 📊 Create **data products, dashboards, and analytics solutions**
+- 🏗️ Design **scalable data workflows and architectures**
 
 ---
 
-## 📌 Highlight Projects
-Here are some of my favorite data projects:
-
-  🔹 [Mira-chatbot-NLP](https://github.com/Hirdeshpal15/Mira-chabot-NLP) – Built a Food deilvery chatbot for placing the orders.
-  
- 🔹 [Image Classification CNN](https://github.com/Hirdeshpal15/Image_Classification_CNN) – Built a CNN model with TensorFlow for image classification  
- 
- 🔹 [Social Media User Behavior Analysis](https://github.com/Hirdeshpal15/Social_Media_User_Behavior_Analysis-ML-) – Used classification algorithms to predict user behavior  
- 
- 🔹 [Data Warehouse with SQL](https://github.com/Hirdeshpal15/Data-Warehouse-SQL-Project) – Designed star schema & built queries for ETL and reporting  
- 
- 🔹 [Postman Clone](https://github.com/Hirdeshpal15/Postman_clone) – Built a basic API testing UI using HTML, CSS, and JavaScript 
- 
----
-
-📫 **Let’s connect:**  
-[LinkedIn](https://www.linkedin.com/in/hirdesh-pal-1a5445166) | [GitHub](https://github.com/Hirdeshpal15) | hirdeshpal15@gmail.com
+## 🧠 Tech Stack
+**Languages:** Python, SQL  
+**AI/ML:** Machine Learning, NLP, LLMs, RAG, Prompt Engineering  
+**Tools:** Pandas, NumPy, Scikit-learn, PyTorch  
+**Data:** ETL Pipelines, Data Modeling  
+**Visualization:** Power BI, Tableau  
+**Cloud (Learning):** Azure, AWS  
 
 ---
 
+## 🚀 Featured Projects
+
+### 🧠 RAG-Based AI Assistant
+LLM-powered system using retrieval + generation for context-aware responses  
+👉 Built with embeddings, semantic search, and prompt engineering  
+🔗 [View Project](https://github.com/Hirdeshpal15/REPO_NAME)
+
+---
+
+### ⚙️ End-to-End ML Pipeline
+Production-style pipeline from data ingestion → feature engineering → model → prediction  
+👉 Focus on scalability, reproducibility, and data quality  
+🔗 [View Project](https://github.com/Hirdeshpal15/REPO_NAME)
+
+---
+
+### 📊 Analytics Dashboard & KPI System
+Built business dashboards and reporting frameworks for decision-making  
+👉 Includes KPI design, visualization, and insights generation  
+🔗 [View Project](https://github.com/Hirdeshpal15/REPO_NAME)
+
+---
+
+### 🤖 Agentic AI Workflow
+Multi-step reasoning system simulating AI agents using LLM orchestration  
+👉 Focus on structured reasoning and workflow automation  
+🔗 [View Project](https://github.com/Hirdeshpal15/REPO_NAME)
+
+---
+
+## 🎯 Current Focus
+- Generative AI & LLM Applications  
+- AI Agents & Multi-step Reasoning  
+- Data Engineering & Scalable Pipelines  
+
+---
+
+## 📫 Connect With Me
+📧 hirdeshpal15@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/hirdesh-pal/  
+
+---
+
+⭐ Always open to opportunities in AI, Data Science, and Analytics roles across Europe
